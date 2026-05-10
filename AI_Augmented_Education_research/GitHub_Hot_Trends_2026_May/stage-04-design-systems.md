@@ -1,0 +1,87 @@
+## 設計系統與原型工具 -- GitHub 熱門趨勢分析報告 (2026年5月)
+
+## 這個階段在看什麼
+這段時間 GitHub 上 **AI 輔助設計的全鏈條**--從視覺識別規範（Design.md）到開源設計替代方案（Open Design / Open Codesign），再到 CMS/網站生成。AI 正在重新定義「設計」的邊界。
+
+---
+
+## 統計數據
+
+- **總星數**: 76,584 ★
+- **專案數量**: 5 個
+
+---
+
+## 關鍵項目詳情
+
+### 1. [nexu-io/open-design](https://github.com/nexu-io/open-design) -- ★ 35,513
+
+語言：TypeScript  | 35513★
+
+**描述**: Local-first, open-source alternative to Anthropic's Claude Design. 19 Skills · 71 brand-grade Design Systems -- 本地優先、開源的 Claude Design 替代方案。
+
+35,513 的王者專案！提供 19 種 Skill 和 71 套品牌級設計系統，支援網頁/桌面/行動端原型生成。核心優勢：本地優先（隱私）、多模型支援（Claude/GPT/Gemini/Qwen/Copilot/Hermes/Kimi）。
+
+---
+
+### 2. [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) -- ★ 12,896
+
+語言：HTML  | 12896★
+
+**描述**: Huashu Design · HTML-native design skill -- 高保真原型/幻燈片/動畫 + 20 設計哲學。
+
+HTML 原生實現意味著無需額外依賴即可渲染，極大簡化了部署流程。內建的「5 維评审」系統提供自動化的設計品質評估。
+
+---
+
+### 3. [google-labs-code/design.md](https://github.com/google-labs-code/design.md) -- ★ 12,383
+
+語言：TypeScript  | 12383★
+
+**描述**: A format specification for describing a visual identity to coding agents. -- 描述視覺識別給編程代理的格式規範。
+
+Google Labs 推出的 Design.md 標準，讓 AI 編程代理能「理解」設計系統--顏色、字體、組件庫等。這是設計與開發之間的重要橋樑。
+
+---
+
+### 4. [emdash-cms/emdash](https://github.com/emdash-cms/emdash) -- ★ 10,393
+
+語言：TypeScript  | 10393★
+
+**描述**: EmDash is a full-stack TypeScript CMS based on Astro -- WordPress 的精神繼承者。
+
+基於 Astro 的全棧 TypeScript CMS，定位為「WordPress 的精神繼承者」。反映現代 Web 開發對靜態生成和效能的重視。
+
+---
+
+### 5. [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) -- ★ 5,399
+
+語言：TypeScript  | 5399★
+
+**描述**: Open-source Claude Design alternative. One-click import API key -- 開源 Claude Design 替代方案。
+
+一鍵導入 API Key，支援多模型（Claude/GPT/Gemini/Kimi/GLM/Ollama），本地優先、MIT 授權。強調可及性和易用性。
+
+---
+
+### 階段洞察
+
+1. **開源替代 Anthropic**: Open Design (35,513) 和 Open Codesign (5,399) 反映社區對「閉源設計工具」的反彈--開源、本地優先的替代方案大受歡迎。
+2. **多模型支援是趨勢**: Open Design 支援 Claude/GPT/Gemini/Qwen/Copilot/Hermes/Kimi，顯示 AI 工具不再綁定單一模型。
+3. **Design.md 標準化**: Google Labs 推動的設計格式規範，標誌著「AI 理解設計」從實驗走向標準化。
+4. **中國開發者持續活躍**: alchaincyf 的 Huashu Design (12,896) 再次證明中國開發者在 AI 設計領域的領先地位。
+
+---
+
+## 總結
+
+本階段共分析了 **5 個專案**，總計 **76,584★**。這些專案代表了 GitHub 上 AI/技術領域的最新趨勢和創新方向。
+
+*報告生成時間: 2026-05-10 08:21:04*
+
+
+## 我的觀察
+
+設計系統工具這塊的成長速度比我預期的快很多。Excalidraw、tldraw、Mermaid 這些工具的星數持續增長，代表開發者越來越重視「先畫出來再寫程式」的工作流程。
+
+不過有個問題：太多工具了。Figma、Excalidraw、tldraw、Draw.io... 選哪個真的看個人偏好，但團隊協作時還是會遇到格式不兼容的麻煩。
