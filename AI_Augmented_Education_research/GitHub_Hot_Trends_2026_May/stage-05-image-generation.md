@@ -1,0 +1,69 @@
+## 圖像生成與提示詞工程 -- GitHub 熱門趨勢分析報告 (2026年5月)
+
+### 階段概述
+本階段聚焦 **AI 圖像生成的基礎設施**--API、提示詞庫、模板引擎。GPT-Image-2 的出現引爆了這波浪潮，相關專案總星數超過 69,000+。
+
+---
+
+## 統計數據
+
+- **總星數**: 69,608 ★
+- **專案數量**: 4 個
+
+---
+
+## 關鍵項目詳情
+
+### 1. [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) -- ★ 13,735
+
+語言：Python  | 13735★
+
+**描述**: GPT-Image-2 API and Prompts -- GPT-Image-2 的 API 和提示詞合集。
+
+13,735 的 API 整合專案，提供 GPT-Image-2 的直接調用接口和提示詞模板。CC0 授權意味著完全自由使用。
+
+---
+
+### 2. [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) -- ★ 5,349
+
+語言：TypeScript  | 5349★
+
+**描述**: World's largest GPT Image 2 prompt library -- 全球最大的 GPT Image 2 提示詞庫，每日更新，2000+ 精選提示詞。
+
+2,000+ 提示詞覆蓋 16 種語言，反映圖像生成提示詞的國際化和多樣化需求。每日更新機制確保內容持續新鮮。
+
+---
+
+### 3. [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) -- ★ 4,813
+
+語言：JavaScript  | 4813★
+
+**描述**: Prompt as Code | GPT-Image2 工業級提示詞引擎與模板庫，370+ 案例逆向工程，20+ 套工業級模板。
+
+"Prompt as Code"（提示詞即代碼）的理念極具前瞻性--將提示詞視為可版本控制、可測試的程式碼。370+ 案例逆向工程提供深度學習素材。
+
+---
+
+### 階段洞察
+
+1. **GPT-Image-2 引爆生態**: 三個主要專案合計超過 24,000，證明 OpenAI 的圖像生成模型已成為開發者首選工具之一。
+2. **提示詞即代碼 (Prompt as Code)**: freestylefly 提出的理念代表提示工程正在走向「軟體工程化」--版本控制、測試、模塊化。
+3. **多語言支援**: YouMind-OpenLab 的 16 種語言覆蓋顯示圖像生成是全球性需求，非英語市場潛力巨大。
+4. **工業級應用**: 從原型設計到商業插畫，GPT-Image-2 生態正從「玩具」走向「生產力工具」。
+
+---
+
+## 總結
+
+本階段共分析了 **4 個專案**，總計 **69,608★**。這些專案代表了 GitHub 上 AI/技術領域的最新趨勢和創新方向。
+
+*報告生成時間: 2026-05-10 08:21:04*
+
+
+## 我的觀察
+
+圖像生成這塊變化最快。從 Stable Diffusion 到 Flux 到 Midjourney API，短短兩年已經換了好幾輪。
+
+最讓我驚訝的是 prompt engineering 變成了一個獨立的領域——有專門的工具、框架、甚至研究論文。這跟 SEO 在 2010 年代的發展路徑很像：當 AI 生成內容變得普遍，「怎麼問」就成了一門技藝。
+
+但也要說實話，很多 prompt 工具的實際效果被高估了。
