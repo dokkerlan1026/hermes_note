@@ -1,0 +1,79 @@
+## 知識管理與記憶系統 -- GitHub 熱門趨勢分析報告 (2026年5月)
+
+### 階段概述
+本階段聚焦 **AI Agent 的「大腦」層**--如何讓 AI 擁有持久化記憶、構建知識圖譜、以及自動整理和理解文檔。這是 Agent 從「一次性對話」走向「持續學習」的關鍵。
+
+---
+
+## 統計數據
+
+- **總星數**: 108,765 ★
+- **專案數量**: 4 個
+
+---
+
+## 關鍵項目詳情
+
+### 1. [MemPalace/mempalace](https://github.com/MemPalace/mempalace) -- ★ 51,800
+
+語言：Python  | 51800★
+
+**描述**: The best-benchmarked open-source AI memory system. And it's free -- 最佳基準測試的開源 AI 記憶系統。
+
+51,800 的高星數證明「AI 記憶」是當前最熱門的需求之一。MemPalace 提供持久化、可查詢的 Agent 記憶能力，讓 AI 能跨會話記住用戶偏好和上下文。
+
+---
+
+### 2. [safishamsi/graphify](https://github.com/safishamsi/graphify) -- ★ 45,711
+
+語言：Python  | 45711★
+
+**描述**: AI coding assistant skill -- Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. -- 將任何資料轉換為可查詢的知識圖譜。
+
+Graphify 是 Hermes Agent 系統的核心技能之一（45,711）。它能處理多模態輸入（程式碼、SQL、文檔、影像、影片），構建跨領域知識圖譜，是知識管理的瑞士刀。
+
+---
+
+### 3. [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) -- ★ 6,615
+
+語言：TypeScript  | 6615★
+
+**描述**: LLM Wiki -- turns your documents into an organized, interlinked knowledge base automatically. 基於 Karpathy 的 LLM Wiki 模式。
+
+受 Andrej Karpathy（OpenAI 前首席科學家）啟發，自動將文檔組織為互聯知識庫。TypeScript 實現使其易於整合到 Web 應用中。
+
+---
+
+### 4. [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) -- ★ 4,639
+
+語言：Python  | 4639★
+
+**描述**: Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern -- Claude 與 Obsidian 知識夥伴。
+
+將 Claude AI 能力與 Obsidian（本地 Markdown 筆記軟體）整合，實現「持續累積的知識寶庫」。這代表個人知識管理的未來方向--AI + 本地優先。
+
+---
+
+### 階段洞察
+
+1. **記憶是 Agent 的核心競爭力**: MemPalace (51,800) 和 Graphify (45,711) 的高星數證明，持久化記憶和知識圖譜是 AI Agent 最被看重的能力。
+2. **多模態支援成為標配**: Graphify 能處理程式碼、SQL、文檔、影像、影片--AI 需要理解所有類型的輸入資料。
+3. **Karpathy 效應**: LLM Wiki 和 Claude-Obsidian 都受 Karpathy 的知識管理模式啟發，顯示學術領袖對開源生態的深遠影響。
+4. **本地優先 (Local-First)**: Obsidian 整合專案反映用戶對數據隱私和本地控制的偏好--AI 記憶不應只存在雲端。
+
+---
+
+## 總結
+
+本階段共分析了 **4 個專案**，總計 **108,765★**。這些專案代表了 GitHub 上 AI/技術領域的最新趨勢和創新方向。
+
+*報告生成時間: 2026-05-10 08:12:28*
+
+
+---
+
+## 我的觀察
+
+知識管理這塊最讓我意外的是 RAG 相關專案的爆發。2024 年還在討論 RAG 好不好用，2026 年已經有這麼多工具在優化它了。GraphRAG 和 vector-stores 類型的專案星數都很高，代表「把資料變成可查詢的知識」已經是刚需。
+
+不過很多工具的門檻還是偏高，對非技術使用者不太友善。
